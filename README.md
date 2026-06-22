@@ -1,5 +1,12 @@
 # 🛒 SmartCart Customer Segmentation System
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartcart-customer-segmentation-4fz73cavxnty9rrxbjz9zf.streamlit.app/)
+
+## 🚀 Live Demo
+👉 **[Click here to try the app](https://smartcart-customer-segmentation-4fz73cavxnty9rrxbjz9zf.streamlit.app/)**
+
+---
+
 An intelligent **unsupervised machine learning** system that segments e-commerce customers into meaningful groups based on purchasing behaviour, engagement levels, and loyalty indicators — enabling personalised marketing and improved customer retention.
 
 ---
